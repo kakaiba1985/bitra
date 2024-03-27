@@ -3,9 +3,9 @@
 apt update
 apt install sudo
 HOST='195.35.10.163';
-USER='u844717466_thunderbolt';
+USER='u844717466_bitradeuser';
 PASS='kakaibA123A';
-DBNAME='u844717466_thunder';
+DBNAME='u844717466_bitrade';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
